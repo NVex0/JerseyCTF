@@ -29,4 +29,4 @@ Với câu hỏi đầu đề:
 
 Tra google xem ai trong nhóm One Direction rời nhóm đầu tiên là ra flag.
 
-Flag : `jctf{Malik}``]
+Flag : `jctf{Malik}`
